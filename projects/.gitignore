@@ -1,0 +1,23 @@
+# Log files
+*.log
+*.old
+
+# Secrets
+.env
+.env.*
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# Editor files
+.vscode/
+
+# Additional secrets and sensitive files
+**/secrets.env
+**/id_rsa
+**/id_ed25519
+**/*.pem
+
+# SSH directories
+**/.ssh/
