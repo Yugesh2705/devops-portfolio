@@ -1,0 +1,8 @@
+
+total requests: 8
+top IP: 10.0.0.5 (4)
+error responses: 3
+/api/users: 3
+/api/login: 2
+/api/products: 2
+/api/orders: 1
