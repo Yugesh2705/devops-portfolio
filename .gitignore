@@ -21,3 +21,7 @@ Thumbs.db
 
 # SSH directories
 **/.ssh/
+
+*.sh text eol=lf
+*.bash text eol=lf
+*.cron text eol=lf
